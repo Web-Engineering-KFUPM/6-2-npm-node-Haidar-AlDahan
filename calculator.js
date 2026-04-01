@@ -17,7 +17,7 @@ LAB CREATION INSTRUCTIONS
     return {}
     }
     export function subtract(numbers) {
-      return {}
+      return {}   
     }
 
     export function multiply(numbers) {
